@@ -4,9 +4,9 @@
 
 ### Download the Dataset
 
-[RAW DATASET](..//DASHBOARDS/RAW_DATASETS/1_NETFLIX_RAW_DATASET.csv)
+[RAW DATASET](https://github.com/mohanraj-official/DASHBOARDS/tree/main/RAW_DATASETS)
 
-[CLEANED DATASET IN EXCEL](../DASHBOARDS/CLEANED_DATASETS/NETFLIX_CLEANED.xlsx)
+[CLEANED DATASET IN EXCEL](https://github.com/mohanraj-official/DASHBOARDS/blob/main/CLEANED_DATASETS/NETFLIX_CLEANED.xlsx)
 
 Dataset size:
 - Rows: 8,791
