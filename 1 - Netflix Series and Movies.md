@@ -47,12 +47,12 @@ Dataset size:
 
 # DATASET IMAGE
 
-![DATASETS](../DASHBOARDS/DATASET_IMAGES/1_NETFLIX_DATASET.png)
+![DATASETS](https://github.com/mohanraj-official/DASHBOARDS/blob/main/DATASET_IMAGES/1_NETFLIX_DATASET.png)
 
 <BR>
 
 # Dashboard Image
-![DASHBOARDS](../DASHBOARDS/DASHBOARD%20IMAGES/1_NETFLIX_DASHBOARD.png)
+![DASHBOARDS](https://github.com/mohanraj-official/DASHBOARDS/blob/main/DASHBOARD_IMAGES/1_NETFLIX_DASHBOARD.png)
 
 
 # Summary Values and Key Findings
