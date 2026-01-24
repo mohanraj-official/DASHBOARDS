@@ -1,13 +1,13 @@
 
-# Spotify Songs Analysis (2022) | Power BI Dashboard
+# Spotify Songs Analysis (2022)
 
 <BR>
 
 ### Download the Dataset
 
-[RAW DATASET](https://github.com/mohanraj-official/DASHBOARDS/tree/main/RAW_DATASETS)
+[RAW DATASET](https://github.com/mohanraj-official/DASHBOARDS/blob/main/RAW_DATASETS/Spotify%20Most%20Streamed%20Songs.csv)
 
-[CLEANED DATASET IN EXCEL](https://github.com/mohanraj-official/DASHBOARDS/tree/main/CLEANED_DATASETS)
+[CLEANED DATASET IN EXCEL](https://github.com/mohanraj-official/DASHBOARDS/blob/main/CLEANED_DATASETS/2_CLEANED_SPOTIFY_DATASET.CSV)
 
 Dataset size:
 
@@ -68,15 +68,16 @@ Slicers:
 
 <BR>
 
-# Dataset Image
+# Dataset
 
-![DATASET](https://github.com/mohanraj-official/DASHBOARDS/blob/main/DATASET_IMAGES/SPOTIFY_DATASET.png)
+<img width="1830" height="737" alt="SPOTIFY DATASET" src="https://github.com/user-attachments/assets/dacf96de-f180-428a-9925-8c80ce13eb9f" />
+
 
 <BR>
 
-# Dashboard Image
+# Dashboard
+<img width="1278" height="709" alt="SPOTIFY PLAYLIST DASHBOARDS" src="https://github.com/user-attachments/assets/9bf03948-c5a1-4881-9488-8043a410d42f" />
 
-![DASHBOARD](https://github.com/mohanraj-official/DASHBOARDS/blob/main/DASHBOARD_IMAGES/SPOTIFY_DASHBOARD_1.png)
 
 <BR>
 
@@ -100,10 +101,3 @@ KPI summary from the dashboard:
 * BPM values cluster around mid-tempo ranges, suitable for mainstream playlists.
 * Recent years show higher streaming volumes compared to earlier years.
 
----
-
-If you want, I can now:
-
-* Create summaries for Dashboard 2 and 3
-* Rewrite this in shorter README style
-* Align wording to recruiter-friendly GitHub standards
